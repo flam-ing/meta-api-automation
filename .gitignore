@@ -1,0 +1,30 @@
+# Environment Variables & Private Secrets
+.env
+.env.local
+meta_api_credentials.json
+meta_session_tokens.json
+meta_access_token.txt
+
+# Python & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Browser Automation & Profiles
+chrome_profile/
+.playwright/
+debug/
+*.png
+*.jpg
+*.jpeg
+*.log
+
+# OS Metadata
+.DS_Store
+Thumbs.db
