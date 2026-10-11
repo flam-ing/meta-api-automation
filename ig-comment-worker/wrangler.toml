@@ -1,0 +1,3 @@
+name = "ig-comment-webhook"
+main = "src/index.js"
+compatibility_date = "2025-08-01"
